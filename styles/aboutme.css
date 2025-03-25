@@ -1,0 +1,17 @@
+.other{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(39, 36, 21);
+  margin: 20px 300px 10px 300px;
+  padding: 6px;
+  border-radius: 10px;
+}
+
+.other div{
+  margin: 10px 20px 4px 20px;
+  color: beige;
+  font-size: small;
+  text-align:center;
+}

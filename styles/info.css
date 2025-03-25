@@ -1,0 +1,28 @@
+.icons{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  margin-top: 40px;
+}
+
+.icons img{
+  height: 24px;
+  width: 24px;
+  margin-top: 20px;
+}
+
+.icons div{
+  color: rgb(110, 105, 74);
+  text-align: center;
+  margin-top: 3px;
+  font-size: small;
+}
+
+.life{
+  background-color: rgb(39, 36, 21);
+  margin: 20px 300px 10px 300px;
+  padding: 6px;
+  border-radius: 10px;
+}
