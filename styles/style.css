@@ -4,7 +4,8 @@
   justify-content:center;
   align-items: center;
   background-color: rgb(56, 50, 50);
-  margin: 20px 300px 10px 300px;
+  width: 100%; /* Full width on all devices */
+  max-width: 1200px; /* Maximum width for larger screens */
   padding: 6px;
   border-radius: 10px;
 }
