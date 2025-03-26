@@ -22,8 +22,7 @@
 
 .life{
   background-color: rgb(56, 50, 50);
-  width: 100%; /* Full width on all devices */
-  max-width: 1200px; /* Maximum width for larger screens */
+   margin: 20px 300px 10px 300px;
   padding: 6px;
   border-radius: 10px;
 }
